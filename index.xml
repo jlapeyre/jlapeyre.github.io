@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Lapeyre</title>
+    <link>https://jlapeyre.github.io/</link>
+    <description>Recent content on John Lapeyre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 26 May 2018 14:41:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://jlapeyre.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Broken links</title>
+      <link>https://jlapeyre.github.io/news/brokenlinks/</link>
+      <pubDate>Sat, 26 May 2018 14:41:31 +0200</pubDate>
+      
+      <guid>https://jlapeyre.github.io/news/brokenlinks/</guid>
+      <description>Switching my site to a new website builder caused several external links to break, including search results linking to old content on the old site, for which internal links had been removed. So, I have been fixing this with aliases, but haven&amp;rsquo;t made all of them yet.
+In the mean time, I see that google reacts much more quickly to a radical change in my site than it did 10 years ago.</description>
+    </item>
+    
+    <item>
+      <title>JuliaCon 2018</title>
+      <link>https://jlapeyre.github.io/news/juliacon2018/</link>
+      <pubDate>Sat, 26 May 2018 02:45:21 +0200</pubDate>
+      
+      <guid>https://jlapeyre.github.io/news/juliacon2018/</guid>
+      <description>I&amp;rsquo;m excited to be giving a talk at JuliaCon 2018 on symbolic computation software in Julia.
+I&amp;rsquo;m very curious to hear the perspective on Julia of the highly-distinguished, veteran, keynote speakers Sophie Wilson and Nicholas Higham. &amp;hellip; and excited (still) to meet all the brilliant Julia developers and users, &amp;hellip; and also about everything else that will be going on.</description>
+    </item>
+    
+    <item>
+      <title>New web site</title>
+      <link>https://jlapeyre.github.io/news/newsite/</link>
+      <pubDate>Sat, 26 May 2018 02:17:21 +0200</pubDate>
+      
+      <guid>https://jlapeyre.github.io/news/newsite/</guid>
+      <description>I switched to a new website framework. Or rather, I began to use one. Till now, I had hand coded html/css borrowed from somewhere. But having managed content makes life easier, even for a simple site.
+The previous content was a bit wooly from years of accretion and pruning. I more-or-less started fresh. But, I transferred some of the content to the new framework.</description>
+    </item>
+    
+    <item>
+      <title>colophon</title>
+      <link>https://jlapeyre.github.io/about/colophon/</link>
+      <pubDate>Sat, 22 Aug 2015 06:28:26 -0700</pubDate>
+      
+      <guid>https://jlapeyre.github.io/about/colophon/</guid>
+      <description>This website is homepage of John Lapeyre
+The site is built with Hugo—a static site generator made with Go. The website source code is available on GitHub. It uses the cocoa theme. The posts are written in Markdown.
+The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The social icons are from the Ionicons font set. CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.</description>
+    </item>
+    
+    <item>
+      <title>Soul Intro to The Chicken</title>
+      <link>https://jlapeyre.github.io/music/soul-intro-to-the-chicken-horn/</link>
+      <pubDate>Wed, 11 Jul 2007 07:28:40 +0200</pubDate>
+      
+      <guid>https://jlapeyre.github.io/music/soul-intro-to-the-chicken-horn/</guid>
+      <description>The most popular content on this website is &amp;ldquo;Distribution of entanglement in large-scale quantum networks&amp;rdquo;&amp;hellip;. Nah, just kidding. By far the most popular is this transcription of the horn parts of the Soul Intro by Jaco Pastorius (or his band) to The Chicken by Pee Wee Ellis. I found a scan of a transcription by Mark Welcome. I re-typeset it and made a few corrections and additions. Here is a clip of Jaco and a band playing it in 1981.</description>
+    </item>
+    
+    <item>
+      <title>Electric Lady Land (Instrumental)</title>
+      <link>https://jlapeyre.github.io/music/study-of-instrumental-version-of-electric-lady-land/</link>
+      <pubDate>Tue, 10 Jan 2006 07:23:38 +0100</pubDate>
+      
+      <guid>https://jlapeyre.github.io/music/study-of-instrumental-version-of-electric-lady-land/</guid>
+      <description>Electric Lady Land (Instrumental) Hendrix recorded a short, instrumental version of Electric Lady Land. Here is an mp3 of a recording I made while studying it. It would be a fun exercise to transcribe it, but that&amp;rsquo;s probably for another life.</description>
+    </item>
+    
+    <item>
+      <title>Transcription of Marc Ribot&#39;s La Vida Es Un Sueño</title>
+      <link>https://jlapeyre.github.io/music/transcription-of-la-vida-es-un-sueno/</link>
+      <pubDate>Tue, 01 Nov 2005 02:51:29 +0100</pubDate>
+      
+      <guid>https://jlapeyre.github.io/music/transcription-of-la-vida-es-un-sueno/</guid>
+      <description>Transcription of Marc Ribot : La Vida Es Un Sueño Here is a transcription and recording I made of La Vida Es Un Sueño by Arsenio Rodriguez, arranged by Marc Ribot. The transcription is of the guitar (Ribot) and bass (Brad Jones) parts of the studio recording of the La Vida Es un Sueño. I did this transcription as an exercise to study Ribot&amp;rsquo;s playing. Here are the files for the transcription:</description>
+    </item>
+    
+    <item>
+      <title>Notes to Transcription of Marc Ribot&#39;s Cover of La Vida es un Sueño</title>
+      <link>https://jlapeyre.github.io/music/notes-on-transcription-of-la-vida-es-un-sueno/</link>
+      <pubDate>Mon, 10 Oct 2005 00:00:00 -0700</pubDate>
+      
+      <guid>https://jlapeyre.github.io/music/notes-on-transcription-of-la-vida-es-un-sueno/</guid>
+      <description>Introduction These notes were made while transcribing 1 the studio recording of the guitar and bass parts of Marc Ribot&amp;rsquo;s cover of La Vida Es un Sueño. The transcription, recordings, etc. are here
+Who is responsible for this music ? The original music and lyrics are by Arsenio Rodriguez, who wrote it in the early 1940&amp;rsquo;s. There is a good story, which may even be true, that says he arrived in New York from Cuba and the doctor told him that it was impossible to restore his eyesight, and shortly thereafter he dictated the song to his brother.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jlapeyre.github.io/talks/talksgen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jlapeyre.github.io/talks/talksgen/</guid>
+      <description>Invited conference talks  2015 May 14 &amp;nbsp;&amp;nbsp; Confinement and Disordered Confinement in Anomalous Diffusion
+Stochastic Modeling of Anomalous Dynamics in Complex Physical and Biological Systems Hugo Steinhaus Center, Wrocław University of Technology
+ 2014 September 7 &amp;nbsp;&amp;nbsp; Local and global geometry in entanglement percolation
+Quantum Technologies Conference V Jagiellonian University, Kraków, Poland
+ 2013 September &amp;nbsp;&amp;nbsp; Entanglement Distribution on Networks
+Quantum Technologies Conference IV, Warsaw University of Warsaw</description>
+    </item>
+    
+  </channel>
+</rss>

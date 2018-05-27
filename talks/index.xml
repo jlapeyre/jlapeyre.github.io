@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on John Lapeyre</title>
+    <link>https://jlapeyre.github.io/talks/</link>
+    <description>Recent content in Talks on John Lapeyre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 19 Aug 2015 20:29:37 -0700</lastBuildDate>
+    
+	<atom:link href="https://jlapeyre.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://jlapeyre.github.io/talks/talksgen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jlapeyre.github.io/talks/talksgen/</guid>
+      <description>Invited conference talks  2015 May 14 &amp;nbsp;&amp;nbsp; Confinement and Disordered Confinement in Anomalous Diffusion
+Stochastic Modeling of Anomalous Dynamics in Complex Physical and Biological Systems Hugo Steinhaus Center, Wrocław University of Technology
+ 2014 September 7 &amp;nbsp;&amp;nbsp; Local and global geometry in entanglement percolation
+Quantum Technologies Conference V Jagiellonian University, Kraków, Poland
+ 2013 September &amp;nbsp;&amp;nbsp; Entanglement Distribution on Networks
+Quantum Technologies Conference IV, Warsaw University of Warsaw</description>
+    </item>
+    
+  </channel>
+</rss>
